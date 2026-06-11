@@ -1,5 +1,5 @@
 # HomeNetworkScanner
-## :military helmet: Defend your network from unfriendly devices
+## :military_helmet: Defend your network from unfriendly devices
 
 ## How it works
 1. The HomeNetworkScanner sends an ARP ping to your broadcast ip address forcing all other devices on your network to respond
